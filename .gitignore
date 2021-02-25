@@ -1,5 +1,5 @@
-data/ComParE2021/.envs/
-data/ComParE2021/dist/
-data/ComParE2021/.dvc
-data/ComParE2021_ESS
-data/ComParE2021_PRS
+ess_baseline/.envs/
+ess_baseline/dist/
+ess/.dvc
+ess
+prs
