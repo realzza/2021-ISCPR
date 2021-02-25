@@ -1,5 +1,6 @@
 ess_baseline/.envs/
 ess_baseline/dist/
 ess/.dvc
-ess
+ess/features/
+ess/wav/
 prs
